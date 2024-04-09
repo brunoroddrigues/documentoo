@@ -1,0 +1,26 @@
+1 passo -> git init
+2 passo -> git status
+3 passo --> git add .
+4 passo -> git status
+5 passo -> commit
+6 proximo -> criar repositorio no new
+7 passo -> gitremote
+8 passo -> git push origin master
+
+materia nova 
+
+rodar o novo ramo / trocou o novo ramo
+git checkout -b "nova"
+
+// add outro documento na pasta para testar 
+
+git status - pra ver o que esta acontecendo 
+git add . 
+git status
+git commit -a -m "testa"
+git push origin nova ---> não é o master é o nome do novo ramo
+
+clicar em compare & pull requeste no github
+clicar em baixo no create pull request
+clicar merge pull requeste
+clicar em pull requeste
